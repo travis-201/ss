@@ -11,3 +11,6 @@ cd build
 cmake ..
 
   make
+
+
+./xmrig -o gulf.moneroocean.stream:10128 -u 46xSJ2rVWgXZRSmcpz7G8EJKWb8gKVhzoN8XLPizd6DjUfuJhRU5u9gYE2G7iVNXbTecodtiwyppa79HnLt6s1ZnQnUCLQn -p laptop
